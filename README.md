@@ -1,6 +1,6 @@
 # 4d-plugin-migration-to-v17
 
-#### callback system
+#### phase 1: callback system
 
 It is no longer permissible to call ``PA_UnfreezeProcess`` from a non-4D execution context. 
 
@@ -68,3 +68,15 @@ void TEST(PA_PluginParameters params)
 	PA_RunInMainProcess((PA_RunInMainProcessProcPtr)resume, NULL);
 }
 ```
+
+#### phase 2: thread safety
+
+add ``"threadSafe": true`` to manifest if applicable
+
+use native API instead of ``PA_ConvertCharsetToCharset`` which is thread unsafe
+
+except for commands that call ``PA_RunInMainProcess`` which is unsafe
+
+#### phase 3: object/collection support
+
+use new entry points ``EX_SET_OBJ_VALUE`` and ``EX_GET_OBJ_VALUE``
