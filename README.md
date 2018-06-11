@@ -28,8 +28,6 @@ void loop()
 {
 	while (!PA_IsProcessDying())
 	{
-		PA_PutProcessToSleep(PA_GetCurrentProcessNumber(), 59);
-
 		std::mutex m;
 		std::lock_guard<std::mutex> lock(m);
 		
@@ -38,6 +36,9 @@ void loop()
 			PA_Unistring methodName = PA_CreateUnistring((PA_Unichar *)method.c_str());
 			PA_ExecuteMethod(&methodName);
 			mySignal = FALSE;
+		}else
+		{
+			PA_PutProcessToSleep(PA_GetCurrentProcessNumber(), 59);
 		}
 	}
 	PA_KillProcess();
