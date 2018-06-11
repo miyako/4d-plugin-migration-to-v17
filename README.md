@@ -57,7 +57,7 @@ void TEST(PA_PluginParameters params)
 		
 		PA_Unistring *param1 = PA_GetStringParameter(params, 1);
 		method = (const PA_Unichar *)param1->fString;
-		processNum = PA_NewProcess((void *)loop, (PA_long32)0, (PA_Unichar *)"\0$\0\0\0");
+		processNum = PA_NewProcess((void *)loop, (PA_long32)0, (PA_Unichar *)"$\0\0\0");
 	}
 	
 	PA_RunInMainProcess((PA_RunInMainProcessProcPtr)resume, NULL);
