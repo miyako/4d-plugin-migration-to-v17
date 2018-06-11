@@ -26,6 +26,8 @@ void resume()
 
 void loop()
 {
+	PA_YieldAbsolute();
+	
 	while (!PA_IsProcessDying())
 	{
 		std::mutex m;
