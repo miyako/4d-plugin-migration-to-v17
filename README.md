@@ -30,6 +30,8 @@ void loop()
 	
 	while (!PA_IsProcessDying())
 	{
+		PA_YieldAbsolute();
+		
 		std::mutex m;
 		std::lock_guard<std::mutex> lock(m);
 		
