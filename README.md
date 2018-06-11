@@ -35,11 +35,17 @@ void loop()
 		
 		if(mySignal)
 		{
-			PA_Unistring method = PA_CreateUnistring((PA_Unichar *)methodName.c_str());
-			PA_ExecuteMethod(&method);
+			PA_Unistring methodName = PA_CreateUnistring((PA_Unichar *)method.c_str());
+			PA_ExecuteMethod(&methodName);
 			mySignal = FALSE;
 		}
 	}
+	PA_KillProcess();
+
+	std::mutex m;
+	std::lock_guard<std::mutex> lock(m);
+	
+	processNum = 0;
 }
 
 void TEST(PA_PluginParameters params)
