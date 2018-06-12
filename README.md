@@ -2,7 +2,7 @@
 
 #### phase 1: callback system
 
-done for [growl](https://github.com/miyako/4d-plugin-growl)
+done for [growl](https://github.com/miyako/4d-plugin-growl) [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 
 It is no longer permissible to call ``PA_UnfreezeProcess`` from a non-4D execution context. 
 
@@ -73,7 +73,7 @@ void TEST(PA_PluginParameters params)
 
 #### phase 2: thread safety
 
-done for [growl](https://github.com/miyako/4d-plugin-growl)
+done for [growl](https://github.com/miyako/4d-plugin-growl) [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 
 add ``"threadSafe": true`` to manifest if applicable
 
