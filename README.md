@@ -79,7 +79,11 @@ add ``"threadSafe": true`` to manifest if applicable
 
 use native API instead of ``PA_ConvertCharsetToCharset`` which is thread unsafe
 
-except for commands that call ``PA_RunInMainProcess`` which is unsafe
+typical unsafe entry points are
+
+``PA_RunInMainProcess``, ``PA_NewProcess`` (background processes in general)    
+``PA_CreatePicture``, ``PA_CreateNativePictureForScreen`` (pictures in general)  
+``PA_Set*InArray`` (arrays in general)  
 
 #### phase 3: object/collection support
 
