@@ -83,6 +83,7 @@ done for
 [curl-http](https://github.com/miyako/4d-plugin-curl-http) 
 [xlsxio](https://github.com/miyako/4d-plugin-xlsxio) [lha](https://github.com/miyako/4d-plugin-lha)
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)
+[pacparser]([https://github.com/miyako/4d-plugin-pacparser)
 
 add ``"threadSafe": true`` to manifest if applicable
 
