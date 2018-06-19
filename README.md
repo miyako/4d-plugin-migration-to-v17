@@ -85,6 +85,7 @@ done for
 [user-notification](https://github.com/miyako/4d-plugin-user-notification) 
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
+[snowball](https://github.com/miyako/4d-plugin-snowball)
 
 add ``"threadSafe": true`` to manifest if applicable
 
@@ -95,6 +96,8 @@ typical unsafe entry points are
 ``PA_RunInMainProcess``, ``PA_NewProcess`` (background processes in general)    
 ``PA_CreatePicture``, ``PA_CreateNativePictureForScreen`` (pictures in general)  
 ``PA_Set*InArray`` (arrays in general)  
+
+change parameter types from array, blob, picture to text if applicable
 
 #### phase 3: object/collection support
 
