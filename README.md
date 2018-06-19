@@ -86,6 +86,8 @@ done for
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
 [snowball](https://github.com/miyako/4d-plugin-snowball)
+[free-xl](https://github.com/miyako/4d-plugin-free-xl)
+[document-properties](https://github.com/miyako/4d-plugin-document-properties)
 
 add ``"threadSafe": true`` to manifest if applicable
 
