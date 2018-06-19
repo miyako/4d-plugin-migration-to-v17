@@ -88,6 +88,7 @@ done for
 [snowball](https://github.com/miyako/4d-plugin-snowball)
 [free-xl](https://github.com/miyako/4d-plugin-free-xl)
 [document-properties](https://github.com/miyako/4d-plugin-document-properties)
+[cpu](https://github.com/miyako/4d-plugin-cpu)
 
 add ``"threadSafe": true`` to manifest if applicable
 
