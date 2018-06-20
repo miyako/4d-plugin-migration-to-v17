@@ -89,6 +89,7 @@ done for
 [free-xl](https://github.com/miyako/4d-plugin-free-xl)
 [document-properties](https://github.com/miyako/4d-plugin-document-properties)
 [cpu](https://github.com/miyako/4d-plugin-cpu)
+[script](https://github.com/miyako/4d-plugin-script)
 
 add ``"threadSafe": true`` to manifest if applicable
 
