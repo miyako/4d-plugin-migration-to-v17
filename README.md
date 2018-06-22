@@ -6,6 +6,7 @@ done for
 [growl](https://github.com/miyako/4d-plugin-growl)
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)
+[apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)
 
 It is no longer permissible to call ``PA_UnfreezeProcess`` from a non-4D execution context. 
 
