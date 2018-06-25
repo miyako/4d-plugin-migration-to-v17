@@ -93,6 +93,7 @@ done for
 [cpu](https://github.com/miyako/4d-plugin-cpu)
 [script](https://github.com/miyako/4d-plugin-script)
 [x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
+[text-convert](https://github.com/miyako/4d-plugin-text-convert)
 
 add ``"threadSafe": true`` to manifest if applicable
 
