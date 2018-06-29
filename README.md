@@ -108,7 +108,7 @@ typical unsafe entry points are
 
 change parameter types from array, blob, picture to text if applicable
 
-**UPDATE**: ``PA_NewHandle`` is now allowed in preemptice mode (no more ``-10530``, c.f. ``ACI0098388``)
+**UPDATE**: ``PA_NewHandle`` is now allowed in preemptive mode (no more ``-10530``, c.f. ``ACI0098388``)
 
 #### phase 3: object/collection support
 
