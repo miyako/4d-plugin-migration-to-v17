@@ -110,6 +110,8 @@ change parameter types from array, blob, picture to text if applicable
 
 **UPDATE**: ``PA_NewHandle`` is now allowed in preemptive mode (no more ``-10530``, c.f. ``ACI0098388``)
 
+``PA_GetBlobHandleParameter`` now works too; but not ``PA_GetBlobParameter``
+
 #### phase 3: object/collection support
 
 use new entry points ``EX_SET_OBJ_VALUE`` and ``EX_GET_OBJ_VALUE``
