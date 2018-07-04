@@ -8,7 +8,7 @@
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)*
 
- * need to review ``mutex`` code
+``*`` need to review ``mutex`` code
 
 #### phase 2: thread safety
 
@@ -27,10 +27,12 @@ done for
 [cpu](https://github.com/miyako/4d-plugin-cpu)
 [script](https://github.com/miyako/4d-plugin-script)
 [x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
-[text-convert](https://github.com/miyako/4d-plugin-text-convert)
+[text-convert](https://github.com/miyako/4d-plugin-text-convert)*
 [time-and-number](https://github.com/miyako/4d-plugin-time-and-number)
 
-add ``"threadSafe": true`` to manifest if applicable
+``*`` need to review blob code
+
+* add ``"threadSafe": true`` to manifest if applicable
 
 use native API instead of ``PA_ConvertCharsetToCharset`` which is thread unsafe
 
@@ -40,11 +42,15 @@ typical unsafe entry points are
 ``PA_CreatePicture``, ``PA_CreateNativePictureForScreen`` (pictures in general)  
 ``PA_Set*InArray`` (arrays in general)  
 
-change parameter types from array, blob, picture to text if applicable
+change parameter types from array, ~~blob~~, picture to text if applicable
 
 **UPDATE**: ``PA_NewHandle`` is now allowed in preemptive mode (no more ``-10530``, c.f. ``ACI0098388``)
 
 ``PA_GetBlobHandleParameter`` now works too; but not ``PA_GetBlobParameter``
+
+* pictures are still not allowed
+
+nor using ``EXECUTE METHOD BY ID`` to pass blob (unlike ``EXECUTE COMMAND``)
 
 #### phase 3: object/collection support
 
