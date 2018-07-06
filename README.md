@@ -16,7 +16,7 @@ done for
 [growl](https://github.com/miyako/4d-plugin-growl) 
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools) 
-[curl-http](https://github.com/miyako/4d-plugin-curl-http) 
+[curl-http](https://github.com/miyako/4d-plugin-curl-http)* 
 [xlsxio](https://github.com/miyako/4d-plugin-xlsxio) [lha](https://github.com/miyako/4d-plugin-lha)
 [user-notification](https://github.com/miyako/4d-plugin-user-notification) 
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)
