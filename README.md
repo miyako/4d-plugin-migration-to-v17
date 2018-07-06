@@ -27,7 +27,7 @@ done for
 [cpu](https://github.com/miyako/4d-plugin-cpu)
 [script](https://github.com/miyako/4d-plugin-script)
 [x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
-[text-convert](https://github.com/miyako/4d-plugin-text-convert)*
+[text-convert](https://github.com/miyako/4d-plugin-text-convert)
 [time-and-number](https://github.com/miyako/4d-plugin-time-and-number)†
 [xls](https://github.com/miyako/4d-plugin-xls)
 
