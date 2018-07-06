@@ -28,10 +28,12 @@ done for
 [script](https://github.com/miyako/4d-plugin-script)
 [x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
 [text-convert](https://github.com/miyako/4d-plugin-text-convert)*
-[time-and-number](https://github.com/miyako/4d-plugin-time-and-number)
+[time-and-number](https://github.com/miyako/4d-plugin-time-and-number)†
 [xls](https://github.com/miyako/4d-plugin-xls)
 
 ``*`` need to review blob code
+
+``†`` need to review array code
 
 * add ``"threadSafe": true`` to manifest if applicable
 
