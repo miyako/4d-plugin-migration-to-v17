@@ -4,9 +4,9 @@
 
 [growl](https://github.com/miyako/4d-plugin-growl)
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)
+[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)*
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)*
-[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)*
 
 ``*`` need to review ``mutex`` code
 
@@ -14,9 +14,7 @@
 
 done for 
 [growl](https://github.com/miyako/4d-plugin-growl) 
-[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools) 
-[curl-http](https://github.com/miyako/4d-plugin-curl-http)* 
 [xlsxio](https://github.com/miyako/4d-plugin-xlsxio) [lha](https://github.com/miyako/4d-plugin-lha)
 [user-notification](https://github.com/miyako/4d-plugin-user-notification) 
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)
@@ -27,9 +25,11 @@ done for
 [cpu](https://github.com/miyako/4d-plugin-cpu)
 [script](https://github.com/miyako/4d-plugin-script)
 [x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
+[xls](https://github.com/miyako/4d-plugin-xls)
 [text-convert](https://github.com/miyako/4d-plugin-text-convert)
 [time-and-number](https://github.com/miyako/4d-plugin-time-and-number)†
-[xls](https://github.com/miyako/4d-plugin-xls)
+[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
+[curl-http](https://github.com/miyako/4d-plugin-curl-http)* 
 
 ``*`` need to review blob code
 
