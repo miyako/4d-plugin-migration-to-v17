@@ -6,7 +6,7 @@
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)*
-[message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)*
+[message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)
 
 ``*`` need to review ``mutex`` code
 
