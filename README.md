@@ -29,7 +29,8 @@ done for
 [text-convert](https://github.com/miyako/4d-plugin-text-convert)
 [time-and-number](https://github.com/miyako/4d-plugin-time-and-number)†
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
-[curl-http](https://github.com/miyako/4d-plugin-curl-http)* 
+[curl-http](https://github.com/miyako/4d-plugin-curl-http)
+[curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
 
 ``*`` need to review blob code
 
