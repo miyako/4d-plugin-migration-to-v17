@@ -32,8 +32,6 @@
 [xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
 [phonenumber](https://github.com/miyako/4d-plugin-phonenumber)
 
-``*`` need to review blob code
-
 ``†`` need to review array code
 
 ``∫`` need to review json code
