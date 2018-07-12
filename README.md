@@ -31,6 +31,8 @@ done for
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
 [curl-http](https://github.com/miyako/4d-plugin-curl-http)
 [curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
+[xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
+[phonenumber](https://github.com/miyako/4d-plugin-phonenumber)
 
 ``*`` need to review blob code
 
