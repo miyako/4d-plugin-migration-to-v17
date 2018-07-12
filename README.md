@@ -15,11 +15,13 @@
 done for 
 [growl](https://github.com/miyako/4d-plugin-growl) 
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools) 
-[xlsxio](https://github.com/miyako/4d-plugin-xlsxio) [lha](https://github.com/miyako/4d-plugin-lha)
+[xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫
+[tz](https://github.com/miyako/4d-plugin-tz)∫
+[lha](https://github.com/miyako/4d-plugin-lha)∫
 [user-notification](https://github.com/miyako/4d-plugin-user-notification) 
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
-[snowball](https://github.com/miyako/4d-plugin-snowball)
+[snowball](https://github.com/miyako/4d-plugin-snowball)∫
 [free-xl](https://github.com/miyako/4d-plugin-free-xl)
 [document-properties](https://github.com/miyako/4d-plugin-document-properties)
 [cpu](https://github.com/miyako/4d-plugin-cpu)
@@ -37,6 +39,8 @@ done for
 ``*`` need to review blob code
 
 ``†`` need to review array code
+
+``∫`` need to review json code
 
 * add ``"threadSafe": true`` to manifest if applicable
 
