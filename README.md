@@ -2,9 +2,6 @@
 
 #### phase 1: review callback system
 
-[growl](https://github.com/miyako/4d-plugin-growl)
-[user-notification](https://github.com/miyako/4d-plugin-user-notification)
-[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)*
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)
 
@@ -12,13 +9,13 @@
 
 #### phase 2: thread safety
 
-done for 
 [growl](https://github.com/miyako/4d-plugin-growl) 
+[user-notification](https://github.com/miyako/4d-plugin-user-notification) 
+[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools) 
 [xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫
 [tz](https://github.com/miyako/4d-plugin-tz)∫
 [lha](https://github.com/miyako/4d-plugin-lha)∫
-[user-notification](https://github.com/miyako/4d-plugin-user-notification) 
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
 [snowball](https://github.com/miyako/4d-plugin-snowball)∫
@@ -30,7 +27,6 @@ done for
 [xls](https://github.com/miyako/4d-plugin-xls)
 [text-convert](https://github.com/miyako/4d-plugin-text-convert)
 [time-and-number](https://github.com/miyako/4d-plugin-time-and-number)†
-[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
 [curl-http](https://github.com/miyako/4d-plugin-curl-http)
 [curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
 [xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
