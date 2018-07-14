@@ -2,10 +2,8 @@
 
 #### phase 1: review callback system
 
-[apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)*
+[apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)
-
-``*`` need to review ``mutex`` code
 
 #### phase 2: thread safety
 
@@ -31,6 +29,8 @@
 [curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
 [xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
 [phonenumber](https://github.com/miyako/4d-plugin-phonenumber)
+
+``*`` need to review ``mutex`` code
 
 ``†`` need to review array code
 
