@@ -29,6 +29,7 @@
 [curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
 [xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
 [phonenumber](https://github.com/miyako/4d-plugin-phonenumber)
+[gmime](https://github.com/miyako/4d-plugin-gmime)†
 
 ``*`` need to review ``mutex`` code
 
