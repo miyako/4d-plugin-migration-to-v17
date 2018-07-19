@@ -8,7 +8,7 @@
 #### phase 2: thread safety
 
 [growl](https://github.com/miyako/4d-plugin-growl)* 
-[user-notification](https://github.com/miyako/4d-plugin-user-notification)* 
+[user-notification](https://github.com/miyako/4d-plugin-user-notification)
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)*† 
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools) 
 [xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫
