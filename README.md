@@ -1,9 +1,14 @@
 # 4d-plugin-migration-to-v17
 
-#### phase 1: review callback system
+#### phase 1.a: review callback system
 
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)
+[address-book](https://github.com/miyako/4d-plugin-address-book)
+
+#### phase 1.b: review callback system (no mutex)
+
+[address-book](https://github.com/miyako/4d-plugin-address-book)
 
 #### phase 2: thread safety
 
