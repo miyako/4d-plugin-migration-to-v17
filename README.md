@@ -9,13 +9,15 @@
 #### phase 1.b: review callback system (no mutex)
 
 [address-book](https://github.com/miyako/4d-plugin-address-book)
+[growl](https://github.com/miyako/4d-plugin-growl)*
+[user-notification](https://github.com/miyako/4d-plugin-user-notification)*
+[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)*
+
+``*`` need to review ``mutex`` code
 
 #### phase 2: thread safety
 
-[growl](https://github.com/miyako/4d-plugin-growl)
-[user-notification](https://github.com/miyako/4d-plugin-user-notification)
-[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)† 
-[uti-tools](https://github.com/miyako/4d-plugin-uti-tools) 
+[uti-tools](https://github.com/miyako/4d-plugin-uti-tools)
 [xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫
 [tz](https://github.com/miyako/4d-plugin-tz)∫
 [lha](https://github.com/miyako/4d-plugin-lha)∫
@@ -29,16 +31,12 @@
 [x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
 [xls](https://github.com/miyako/4d-plugin-xls)
 [text-convert](https://github.com/miyako/4d-plugin-text-convert)
-[time-and-number](https://github.com/miyako/4d-plugin-time-and-number)†
+[time-and-number](https://github.com/miyako/4d-plugin-time-and-number)
 [curl-http](https://github.com/miyako/4d-plugin-curl-http)
 [curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
 [xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
 [phonenumber](https://github.com/miyako/4d-plugin-phonenumber)
-[gmime](https://github.com/miyako/4d-plugin-gmime)†
-
-``*`` need to review ``mutex`` code
-
-``†`` need to review array code
+[gmime](https://github.com/miyako/4d-plugin-gmime)
 
 ``∫`` need to review json code
 
