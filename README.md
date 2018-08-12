@@ -4,13 +4,13 @@
 
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)  
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)  
-[user-notification](https://github.com/miyako/4d-plugin-user-notification)  
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)  
 
 #### phase 1.b: review callback system (use mutex)
 
 [address-book](https://github.com/miyako/4d-plugin-address-book)  
 [growl](https://github.com/miyako/4d-plugin-growl)  
+[user-notification](https://github.com/miyako/4d-plugin-user-notification)  
 
 #### phase 2: thread safety
 
