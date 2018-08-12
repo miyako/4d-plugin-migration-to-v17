@@ -43,8 +43,8 @@ use native API instead of ``PA_ConvertCharsetToCharset`` which is thread unsafe
 
 typical unsafe entry points are
 
-``PA_RunInMainProcess``, ``PA_NewProcess`` (background processes in general)    
-``PA_CreatePicture``, ``PA_CreateNativePictureForScreen`` (pictures in general)  
+``PA_RunInMainProcess`` ``PA_NewProcess`` (background processes in general)    
+``PA_CreatePicture`` ``PA_CreateNativePictureForScreen`` (pictures in general)  
 ``PA_Set*InArray`` (arrays in general)  
 
 change parameter types from array, ~~blob~~, picture to text if applicable
