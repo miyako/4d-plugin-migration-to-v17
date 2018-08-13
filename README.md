@@ -2,7 +2,6 @@
 
 #### phase 1.a: review callback system (use delay process)
 
-[apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)  
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)  
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)  
 
@@ -11,6 +10,7 @@
 [address-book](https://github.com/miyako/4d-plugin-address-book)  
 [growl](https://github.com/miyako/4d-plugin-growl)  
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)  
+[apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)  
 
 #### phase 2: thread safety
 
