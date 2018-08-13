@@ -3,7 +3,6 @@
 #### phase 1.a: review callback system (use delay process)
 
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)  
-[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)  
 
 #### phase 1.b: review callback system (use mutex)
 
@@ -11,6 +10,7 @@
 [growl](https://github.com/miyako/4d-plugin-growl)  
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)  
 [apple-file-promises](https://github.com/miyako/4d-plugin-apple-file-promises)  
+[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)  
 
 #### phase 2: thread safety
 
