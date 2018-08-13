@@ -1,11 +1,8 @@
 # 4d-plugin-migration-to-v17
 
-#### phase 1.a: review callback system (use delay process)
+#### phase 1: review callback system (use delay process and mutex)
 
 [message-file-drop](https://github.com/miyako/4d-plugin-message-file-drop)  
-
-#### phase 1.b: review callback system (use mutex)
-
 [address-book](https://github.com/miyako/4d-plugin-address-book)  
 [growl](https://github.com/miyako/4d-plugin-growl)  
 [user-notification](https://github.com/miyako/4d-plugin-user-notification)  
