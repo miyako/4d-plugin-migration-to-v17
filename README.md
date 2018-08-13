@@ -11,26 +11,26 @@
 
 #### phase 2: thread safety
 
-[uti-tools](https://github.com/miyako/4d-plugin-uti-tools)
-[xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫
-[tz](https://github.com/miyako/4d-plugin-tz)∫
-[lha](https://github.com/miyako/4d-plugin-lha)∫
-[pacparser](https://github.com/miyako/4d-plugin-pacparser)
-[common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
-[snowball](https://github.com/miyako/4d-plugin-snowball)∫
-[free-xl](https://github.com/miyako/4d-plugin-free-xl)
-[document-properties](https://github.com/miyako/4d-plugin-document-properties)
-[cpu](https://github.com/miyako/4d-plugin-cpu)
-[script](https://github.com/miyako/4d-plugin-script)
-[x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)
-[xls](https://github.com/miyako/4d-plugin-xls)
-[text-convert](https://github.com/miyako/4d-plugin-text-convert)
-[time-and-number](https://github.com/miyako/4d-plugin-time-and-number)
-[curl-http](https://github.com/miyako/4d-plugin-curl-http)
-[curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)
-[xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)
-[phonenumber](https://github.com/miyako/4d-plugin-phonenumber)
-[gmime](https://github.com/miyako/4d-plugin-gmime)
+[xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫  
+[tz](https://github.com/miyako/4d-plugin-tz)∫  
+[lha](https://github.com/miyako/4d-plugin-lha)∫  
+[snowball](https://github.com/miyako/4d-plugin-snowball)∫  
+[uti-tools](https://github.com/miyako/4d-plugin-uti-tools)  
+[pacparser](https://github.com/miyako/4d-plugin-pacparser)  
+[common-crypto](https://github.com/miyako/4d-plugin-common-crypto)  
+[free-xl](https://github.com/miyako/4d-plugin-free-xl)  
+[document-properties](https://github.com/miyako/4d-plugin-document-properties)  
+[cpu](https://github.com/miyako/4d-plugin-cpu)  
+[script](https://github.com/miyako/4d-plugin-script)  
+[x-phonetic](https://github.com/miyako/4d-plugin-x-phonetic)  
+[xls](https://github.com/miyako/4d-plugin-xls)  
+[text-convert](https://github.com/miyako/4d-plugin-text-convert)  
+[time-and-number](https://github.com/miyako/4d-plugin-time-and-number)  
+[curl-http](https://github.com/miyako/4d-plugin-curl-http)  
+[curl-ftp](https://github.com/miyako/4d-plugin-curl-ftp)  
+[xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)  
+[phonenumber](https://github.com/miyako/4d-plugin-phonenumber)  
+[gmime](https://github.com/miyako/4d-plugin-gmime)  
 
 ``∫`` need to review json code
 
