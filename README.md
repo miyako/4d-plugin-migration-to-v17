@@ -11,10 +11,10 @@
 
 #### phase 2: thread safety
 
-[xlsxio](https://github.com/miyako/4d-plugin-xlsxio)∫  
-[tz](https://github.com/miyako/4d-plugin-tz)∫  
-[lha](https://github.com/miyako/4d-plugin-lha)∫  
-[snowball](https://github.com/miyako/4d-plugin-snowball)∫  
+[xlsxio](https://github.com/miyako/4d-plugin-xlsxio)*  
+[tz](https://github.com/miyako/4d-plugin-tz)*  
+[lha](https://github.com/miyako/4d-plugin-lha)*  
+[snowball](https://github.com/miyako/4d-plugin-snowball)*  
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools)  
 [pacparser](https://github.com/miyako/4d-plugin-pacparser)  
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)  
@@ -32,7 +32,7 @@
 [phonenumber](https://github.com/miyako/4d-plugin-phonenumber)  
 [gmime](https://github.com/miyako/4d-plugin-gmime)  
 
-``∫`` need to review json code
+``*`` need to review json code
 
 * add ``"threadSafe": true`` to manifest if applicable
 
