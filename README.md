@@ -31,6 +31,7 @@
 [xls-basic-excel](https://github.com/miyako/4d-plugin-xls-basic-excel)  
 [phonenumber](https://github.com/miyako/4d-plugin-phonenumber)  
 [gmime](https://github.com/miyako/4d-plugin-gmime)  
+[common-string-algorithm](https://github.com/miyako/4d-plugin-common-string-algorithm)
 
 ``*`` need to review json code
 
